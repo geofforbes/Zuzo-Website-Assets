@@ -17,6 +17,12 @@ Filenames containing spaces must be URL-encoded (spaces → `%20`), e.g.:
 https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Slack%20Icon.png
 ```
 
+For files in sub-folders, include the folder in the path, e.g.:
+
+```
+https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Client%20Logos/carousel-01.png
+```
+
 ## Contents
 
 ### Website export images (zuzocard.com)
@@ -32,8 +38,13 @@ https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Slack%20Ic
 | `marketplace-feature-screenshot.webp` | Marketplace feature screenshot |
 | `teams-recognition-screenshot.webp` | Teams recognition screenshot |
 | `social-proof-logos.png` | Social proof logo strip |
-| `carousel-01.png` – `carousel-08.png` | Homepage carousel images |
-| `carousel-09-peachpay-logo.png` | PeachPay logo (carousel) |
+
+### Client Logos (`Client Logos/`)
+
+| File | Description |
+|---|---|
+| `Client Logos/carousel-01.png` – `Client Logos/carousel-08.png` | Homepage carousel client logos |
+| `Client Logos/carousel-09-peachpay-logo.png` | PeachPay logo (carousel) |
 
 ### Slack / Teams / brand assets
 
