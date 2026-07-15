@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Slack%20Ic
 | `Teams Demo Message 1.png` | Teams demo message screenshot |
 | `Teams-Slack Toggle (Standalone Design Element).html` | Standalone Teams/Slack toggle design element |
 | `Zuzo Swoosh.png`, `Zuzo swirl SVG.svg` | Zuzo brand graphics |
+| `Zuzo by Yoyo (Wordmark in White) [SVG].svg` | Zuzo by Yoyo wordmark, white, from the Brand Bank |
 
 ## Adding assets
 
