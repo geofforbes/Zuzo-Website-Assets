@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Client%20L
 | `feature-icon-graphic.png` | Feature icon graphic |
 | `card-feature-screenshot.webp` | Card feature screenshot |
 | `marketplace-feature-screenshot.webp` | Marketplace feature screenshot |
-| `teams-recognition-screenshot.webp` | Teams recognition screenshot |
 | `social-proof-logos.png` | Social proof logo strip |
 
 ### Client Logos (`Client Logos/`)
@@ -59,15 +58,21 @@ Each client has a Colour and Greyscale SVG variant, e.g. `Adept Advisory - Logo 
 | Wonga |
 | Yoyo |
 
-### Slack / Teams / brand assets
+### Product Assets (`Product Assets/`)
 
 | File | Description |
 |---|---|
-| `Slack Icon.png`, `Slack logo SVG.svg` | Slack branding |
-| `Slack Demo Message 1.png` | Slack demo message screenshot |
-| `Slack Demo Message Caricature SVG.svg` | Slack demo message illustration |
-| `Teams Icon.png`, `Teams Icon SVG.svg` | Teams branding |
-| `Teams Demo Message 1.png` | Teams demo message screenshot |
+| `Product Assets/Slack Icon.png`, `Product Assets/Slack logo SVG.svg` | Slack branding |
+| `Product Assets/Slack Demo Message 1.png` | Slack demo message screenshot |
+| `Product Assets/Slack Demo Message Caricature SVG.svg` | Slack demo message illustration |
+| `Product Assets/Teams Icon.png`, `Product Assets/Teams Icon SVG.svg` | Teams branding |
+| `Product Assets/Teams Demo Message 1.png` | Teams demo message screenshot |
+| `Product Assets/teams-recognition-screenshot.webp` | Teams recognition screenshot |
+
+### Other brand assets
+
+| File | Description |
+|---|---|
 | `Teams-Slack Toggle (Standalone Design Element).html` | Standalone Teams/Slack toggle design element |
 | `Zuzo Swoosh.png`, `Zuzo swirl SVG.svg` | Zuzo brand graphics |
 | `Zuzo by Yoyo (Wordmark in White) [SVG].svg` | Zuzo by Yoyo wordmark, white, from the Brand Bank |
