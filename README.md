@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Slack%20Ic
 For files in sub-folders, include the folder in the path, e.g.:
 
 ```
-https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Client%20Logos/carousel-01.png
+https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Client%20Logos/Calybre%20-%20Logo%20-%20Colour.svg
 ```
 
 ## Contents
@@ -41,10 +41,23 @@ https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Client%20L
 
 ### Client Logos (`Client Logos/`)
 
-| File | Description |
-|---|---|
-| `Client Logos/carousel-01.png` – `Client Logos/carousel-08.png` | Homepage carousel client logos |
-| `Client Logos/carousel-09-peachpay-logo.png` | PeachPay logo (carousel) |
+Each client has a Colour and Greyscale SVG variant, e.g. `Adept Advisory - Logo - Colour.svg` / `Adept Advisory - Logo - Greyscale.svg`.
+
+| Client |
+|---|
+| Adept Advisory |
+| Business Science Corporation |
+| Calybre |
+| Castlerock |
+| FASTA |
+| Kiron |
+| Mama Money |
+| Metrofibre |
+| OnTec |
+| Peach Payments |
+| Strove |
+| Wonga |
+| Yoyo |
 
 ### Slack / Teams / brand assets
 
@@ -53,7 +66,7 @@ https://raw.githubusercontent.com/geofforbes/Zuzo-Website-Assets/main/Client%20L
 | `Slack Icon.png`, `Slack logo SVG.svg` | Slack branding |
 | `Slack Demo Message 1.png` | Slack demo message screenshot |
 | `Slack Demo Message Caricature SVG.svg` | Slack demo message illustration |
-| `Teams Icon.png` | Teams branding |
+| `Teams Icon.png`, `Teams Icon SVG.svg` | Teams branding |
 | `Teams Demo Message 1.png` | Teams demo message screenshot |
 | `Teams-Slack Toggle (Standalone Design Element).html` | Standalone Teams/Slack toggle design element |
 | `Zuzo Swoosh.png`, `Zuzo swirl SVG.svg` | Zuzo brand graphics |
